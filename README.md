@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamuzzy
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning kubernetes
-- 💞️ I’m looking to collaborate on kubernetes and iOT projects...
+- 💞️ ...
 - 📫 How to reach me @jamuzzy
 
 <!---
